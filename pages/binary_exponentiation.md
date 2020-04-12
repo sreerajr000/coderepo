@@ -1,8 +1,7 @@
 ---
 layout: post
+author: Sreeraj
 ---
-
-# Binary Exponentiation
 
 ```cpp
 long long binpow(long long a, long long b) {
