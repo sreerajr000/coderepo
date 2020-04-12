@@ -6,7 +6,8 @@ title: Search
 <div id="home-search" class="home">
 	 <script>
 	     (function() {
-	         var cx = "000696505189630282699:qocrcs59w0k";
+	         // var cx = "000696505189630282699:qocrcs59w0k";
+	         var cx="000696505189630282699:nm0ni07v93e";
          var gcse = document.createElement('script');
          gcse.type = 'text/javascript';
          gcse.async = true;
