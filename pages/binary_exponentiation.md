@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Sreeraj
+title: Binary Exponentiation
 ---
 
 ```cpp
