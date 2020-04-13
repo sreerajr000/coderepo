@@ -4,7 +4,7 @@ author: Sreeraj
 title: Longest Increasing Path in a Matrix
 ---
 
-
+{% raw %}
 ```cpp
 class Solution {
 public:
@@ -43,3 +43,4 @@ public:
     }
 };
 ```
+{% endraw %}
