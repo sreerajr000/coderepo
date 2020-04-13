@@ -17,5 +17,5 @@ layout: default
 
 ### [Longest ZigZag Path in a Tree](./pages/longest_zigzag_path.html)
 
-##Hard
+## Hard
 ### [Longest Increasing Path in a Matrix](./pages/longest_path_matrix.html)
