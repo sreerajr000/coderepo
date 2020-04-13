@@ -16,3 +16,6 @@ layout: default
 ### [Bipartite Check](./pages/possible_bipartition.html)
 
 ### [Longest ZigZag Path in a Tree](./pages/longest_zigzag_path.html)
+
+##Hard
+### [Longest Increasing Path in a Matrix](./pages/longest_path_matrix.html)
