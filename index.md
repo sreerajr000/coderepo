@@ -12,3 +12,5 @@ layout: default
 ### [Generate Random Point in a Circle](./pages/random_point_in_circle.html)
 
 ### [Maximum Binary Tree II](./pages/max_binary_tree_2.html)
+
+### [Bipartite Check](./pages/possible_bipartition.html)
