@@ -14,3 +14,5 @@ layout: default
 ### [Maximum Binary Tree II](./pages/max_binary_tree_2.html)
 
 ### [Bipartite Check](./pages/possible_bipartition.html)
+
+### [Longest ZigZag Path in a Tree](./pages/longest_zigzag_path.html)
