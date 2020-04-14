@@ -19,3 +19,5 @@ layout: default
 
 ## Hard
 ### [Longest Increasing Path in a Matrix](./pages/longest_path_matrix.html)
+
+### [Maximum Candies](./pages/max_candies.html)
