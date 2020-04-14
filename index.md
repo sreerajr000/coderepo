@@ -21,3 +21,5 @@ layout: default
 ### [Longest Increasing Path in a Matrix](./pages/longest_path_matrix.html)
 
 ### [Maximum Candies](./pages/max_candies.html)
+
+### [Integer to Words](./pages/int_to_words.html)
