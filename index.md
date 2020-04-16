@@ -47,3 +47,14 @@ layout: default
 ### [Interval Trees] TODO
 
 ### [Quad Trees] TODO
+
+
+# Problem Types
+
+## Greedy
+
+### [Coin Change] TODO
+
+### [Load Balancing] TODO
+
+### [Interval Covering] TODO
