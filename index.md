@@ -27,4 +27,4 @@ layout: default
 # Data Structures
 ### [Union Find Disjoint Set](./pages/ufds.html)
 
-### [Segment Tree (Dynamic RMQ)](./page/segment_tree.html)
+### [Segment Tree (Dynamic RMQ)](./pages/segment_tree.html)
