@@ -17,9 +17,12 @@ layout: default
 
 ### [Longest ZigZag Path in a Tree](./pages/longest_zigzag_path.html)
 
-## Hard
+## Hard Problems
 ### [Longest Increasing Path in a Matrix](./pages/longest_path_matrix.html)
 
 ### [Maximum Candies](./pages/max_candies.html)
 
 ### [Integer to Words](./pages/int_to_words.html)
+
+# Data Structures
+### [Union Find Disjoint Set](./pages/ufds.html)
