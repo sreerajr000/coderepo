@@ -45,7 +45,7 @@ class SegmentTree { // the segment tree is stored like a heap array
 	}
 
 	public:
-	SegmentTree(const vi &_A) {
+	SegmentTree(const vector<int> &_A) {
 		A = _A; n = (int)A.size(); // copy content for local usage
 		st.assign(4 * n, 0); // create large enough vector of zeroes
 		build(1, 0, n - 1); // recursive build
